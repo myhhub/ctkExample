@@ -14,4 +14,4 @@ ctk使用教程，介绍ctk编译、ctk框架构建的方法，具体架构可�
 
 介绍简单的ctk框架构建的方法，具体架构可根据自身项目设计。
 
-参见[ctk框架搭建教程](https://www.ljjyy.com/archives/2021/02/100644.html)。
+参见[ctk框架搭建教程](https://www.ljjyy.com/archives/2021/03/100644.html)。
