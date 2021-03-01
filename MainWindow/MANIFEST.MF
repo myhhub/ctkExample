@@ -1,0 +1,2 @@
+Plugin-SymbolicName:MainWindow
+Plugin-Version:1.0.0
