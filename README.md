@@ -1,3 +1,9 @@
+
+
+本文不是最新版本,CTK系列新版本是[《CTK完整教程(OSGI for C++ 实现 C++ Qt 模块化)》](https://github.com/myhhub/CTK-project)
+
+
+
 CTK简明框架使用教程
 
 # 简介
