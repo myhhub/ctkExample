@@ -36,3 +36,8 @@ void MainWindowPlugin::onRegistAction(const ctkEvent& event)
     topic = event.getProperty("topic").toString();
     m_windowDlg->registAction(id, name, topic);
 }
+
+MainWindowPlugin::~MainWindowPlugin()
+{
+    delete m_windowDlg;
+}
