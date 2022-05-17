@@ -12,6 +12,7 @@ class MainWindowPlugin : public QObject, public iMainWindow, public ctkEventHand
     Q_INTERFACES(iMainWindow ctkEventHandler)
 public:
     MainWindowPlugin(ctkPluginContext *context);
+    ~MainWindowPlugin();
     virtual void popMainWindow();
 signals:
     void registAction(const ctkEvent& event);
